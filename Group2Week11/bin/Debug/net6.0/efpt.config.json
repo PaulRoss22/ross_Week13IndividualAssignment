@@ -39,7 +39,7 @@
          "ObjectType": 0
       }
    ],
-   "UiHint": "ROSS.Courses",
+   "UiHint": "mysqlserver122333.Courses",
    "UncountableWords": null,
    "UseBoolPropertiesWithoutDefaultSql": false,
    "UseDatabaseNames": false,
